@@ -1,0 +1,36 @@
+.card{
+    height:400px;
+    width:200px;
+    margin:40px;
+   
+}
+h1{
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+}
+.cen{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:15px;
+}
+
+p{
+    font-size:15px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+}
+.cens{
+    text-align:center;
+    margin-top:10px;
+    text-decoration:underline 2px blue;
+
+}
+a{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+.bg{
+    background-color:aliceblue;
+}
