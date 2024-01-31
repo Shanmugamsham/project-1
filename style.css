@@ -1,7 +1,16 @@
+.bg{
+    background-image:url("https://res.cloudinary.com/ddjjx7t57/image/upload/v1706707291/animation-popular-social-media-logos-footage-086099421_prevstill_mursnd.webp");
+    background-size:cover;
+}
+
+
 .card{
    
     width:100%;
     text-align:center;
+   
+    
+
     
    
 }
@@ -35,6 +44,13 @@ a{
     margin-bottom:10px;
 }
 
-.bg{
-    background-color:aliceblue;
+
+.heading{
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+    text-align:center;
+    padding:5px;
+ 
+    color:yellow;
+    text-decoration:underline solid rgb(3, 255, 3);
 }
